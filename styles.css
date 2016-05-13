@@ -1,0 +1,72 @@
+div {
+	border: 2px solid;
+}
+
+.article h1 {
+	color: red;
+}
+
+.sidebar {
+	background-color: yellow;
+}
+
+.article h1 {
+
+}
+
+.sidebar h1 {
+
+}
+
+.sidebar p {
+}
+
+img {
+	width: 10px;
+	height: 10px;
+}
+
+
+/* --- LAYOUT --- */
+
+* {
+	/* width and height includes padding, border */
+	box-sizing: border-box; 
+}
+
+.article {
+	width: 75%;
+	float: left;
+
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.sidebar {
+	width: 25%;
+	float: right;
+
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
